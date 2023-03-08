@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jaazmine
+- 👋 Hi, I’m Jazmine Chargualaf
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to write a game engine
+- 📫 How to reach me: Discord: Jaazmine#9821
 
 <!---
 jaazmine/jaazmine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
